@@ -9,4 +9,8 @@
 
 ![image](https://github.com/valid999/Implement_Speech_Recognition_End_to_End/assets/95305177/a3cd5e77-5bf1-4637-892a-4f96fb0b331b)
 
+The result for the prediction 
+
+![image](https://github.com/valid999/Implement_Speech_Recognition_End_to_End/assets/95305177/0ef340e6-29c1-4782-8687-9fa6daeb0f4f)
+
 
